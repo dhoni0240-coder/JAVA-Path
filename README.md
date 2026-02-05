@@ -30,8 +30,10 @@ This repository will continuously evolve as my Java knowledge grows.
 
 7️⃣ Multithreading ❌
 ...much more
-.
-.
-.
+
+
+
+
+
 ✔️ = Completed
 ❌ = In Progress / Upcoming
