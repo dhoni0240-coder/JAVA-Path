@@ -28,5 +28,7 @@ This repository will continuously evolve as my Java knowledge grows.
 
 
 ✔️ = Completed
+
 ⏳ = In Progress
+
 ❌ = In Progress / Upcoming
