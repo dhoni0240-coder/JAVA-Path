@@ -16,23 +16,15 @@ This repository will continuously evolve as my Java knowledge grows.
 
 🧭 Java Path – Content Overview
 
-1️⃣ Java Fundamentals ✔️
-
-2️⃣ Arrays & Strings ❌
-
-3️⃣ Object-Oriented Programming (OOPS) ❌
-
-4️⃣ Exception Handling ❌
-
-5️⃣ Java Collections Framework ❌
-
-6️⃣ File Handling ❌
-
-7️⃣ Multithreading ❌
-...much more
-
-
-
+| #   | Topic                              | Status        |
+| --- | ---------------------------------- | ------------- |
+| 1️⃣ | Java Fundamentals                  | ✅ Completed   |
+| 2️⃣ | Arrays & Strings                   | ❌ In Progress |
+| 3️⃣ | Object-Oriented Programming (OOPS) | ❌ Upcoming    |
+| 4️⃣ | Exception Handling                 | ❌ Upcoming    |
+| 5️⃣ | Java Collections Framework         | ❌ Upcoming    |
+| 6️⃣ | File Handling                      | ❌ Upcoming    |
+| 7️⃣ | Multithreading                     | ❌ Upcoming    |
 
 
 ✔️ = Completed
