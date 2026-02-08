@@ -19,7 +19,7 @@ This repository will continuously evolve as my Java knowledge grows.
 | #   | Topic                              | Status        |
 | --- | ---------------------------------- | ------------- |
 | 1️⃣ | Java Fundamentals                  | ✅ Completed   |
-| 2️⃣ | Arrays & Strings                   | ❌ In Progress |
+| 2️⃣ | Arrays & Strings                   | ⏳In Progress |
 | 3️⃣ | Object-Oriented Programming (OOPS) | ❌ Upcoming    |
 | 4️⃣ | Exception Handling                 | ❌ Upcoming    |
 | 5️⃣ | Java Collections Framework         | ❌ Upcoming    |
@@ -28,5 +28,5 @@ This repository will continuously evolve as my Java knowledge grows.
 
 
 ✔️ = Completed
-
+⏳ = In Progress
 ❌ = In Progress / Upcoming
