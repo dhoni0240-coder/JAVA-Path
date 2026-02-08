@@ -18,8 +18,8 @@ This repository will continuously evolve as my Java knowledge grows.
 
 | #   | Topic                              | Status        |
 | --- | ---------------------------------- | ------------- |
-| 1️⃣ | Java Fundamentals                  | ✅ Completed   |
-| 2️⃣ | Arrays & Strings                   | ⏳In Progress |
+| 1️⃣ | Java Fundamentals                  | ✔️  Completed |
+| 2️⃣ | Arrays & Strings                   | ✔️  Completed |
 | 3️⃣ | Object-Oriented Programming (OOPS) | ❌ Upcoming    |
 | 4️⃣ | Exception Handling                 | ❌ Upcoming    |
 | 5️⃣ | Java Collections Framework         | ❌ Upcoming    |
