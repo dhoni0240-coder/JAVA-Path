@@ -23,8 +23,6 @@ This repository will continuously evolve as my Java knowledge grows.
 | 3️⃣ | Object-Oriented Programming (OOPS) | ✔️  Completed |
 | 4️⃣ | Exception Handling                 | ✔️  Completed |
 | 5️⃣ | Java Collections Framework         | ✔️  Completed |
-| 6️⃣ | File Handling                      |  ⏳ = In Progress |
-| 7️⃣ | Multithreading                     | ❌ Upcoming    |
 
 
 ✔️ = Completed
